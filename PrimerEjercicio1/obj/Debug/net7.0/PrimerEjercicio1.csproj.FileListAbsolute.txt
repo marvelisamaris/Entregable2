@@ -1,0 +1,15 @@
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\PrimerEjercicio1.csproj.AssemblyReference.cache
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\PrimerEjercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\PrimerEjercicio1.AssemblyInfoInputs.cache
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\PrimerEjercicio1.AssemblyInfo.cs
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\PrimerEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\marve\PrimerEjercicio1\bin\Debug\net7.0\PrimerEjercicio1.exe
+C:\Users\marve\PrimerEjercicio1\bin\Debug\net7.0\PrimerEjercicio1.deps.json
+C:\Users\marve\PrimerEjercicio1\bin\Debug\net7.0\PrimerEjercicio1.runtimeconfig.json
+C:\Users\marve\PrimerEjercicio1\bin\Debug\net7.0\PrimerEjercicio1.dll
+C:\Users\marve\PrimerEjercicio1\bin\Debug\net7.0\PrimerEjercicio1.pdb
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\PrimerEjercicio1.dll
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\refint\PrimerEjercicio1.dll
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\PrimerEjercicio1.pdb
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\PrimerEjercicio1.genruntimeconfig.cache
+C:\Users\marve\PrimerEjercicio1\obj\Debug\net7.0\ref\PrimerEjercicio1.dll

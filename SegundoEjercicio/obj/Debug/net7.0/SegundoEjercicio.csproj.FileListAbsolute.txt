@@ -1,0 +1,15 @@
+C:\Users\marve\SegundoEjercicio\bin\Debug\net7.0\SegundoEjercicio.exe
+C:\Users\marve\SegundoEjercicio\bin\Debug\net7.0\SegundoEjercicio.deps.json
+C:\Users\marve\SegundoEjercicio\bin\Debug\net7.0\SegundoEjercicio.runtimeconfig.json
+C:\Users\marve\SegundoEjercicio\bin\Debug\net7.0\SegundoEjercicio.dll
+C:\Users\marve\SegundoEjercicio\bin\Debug\net7.0\SegundoEjercicio.pdb
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\SegundoEjercicio.csproj.AssemblyReference.cache
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\SegundoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\SegundoEjercicio.AssemblyInfoInputs.cache
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\SegundoEjercicio.AssemblyInfo.cs
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\SegundoEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\SegundoEjercicio.dll
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\refint\SegundoEjercicio.dll
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\SegundoEjercicio.pdb
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\SegundoEjercicio.genruntimeconfig.cache
+C:\Users\marve\SegundoEjercicio\obj\Debug\net7.0\ref\SegundoEjercicio.dll
